@@ -22,3 +22,11 @@ A Second Level Header
 > ![alt text](https://static.wikia.nocookie.net/bigmancallum/images/2/28/CallumLookingGood.png/revision/latest/scale-to-width-down/545?cb=20201227004709 "That's me")
 
 <span style="color:blue">some *blue* text</span>.
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
